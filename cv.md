@@ -1,5 +1,5 @@
 # NAZOKAT SHERMATOVA
-![portrait]("" "Bukhara")
+![portrait]("../photo.png" "Bukhara")
 ----
 ## Contacts
 * Nick: @algonazokat
